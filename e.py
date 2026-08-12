@@ -1,4 +1,4 @@
-a=x
-b=y
-z=x+y
-print(z)
+a=10
+b=20
+c=a+b
+print(c)
