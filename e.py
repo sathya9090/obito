@@ -1,4 +1,4 @@
-x=a
-y=b
-z=a+b
+a=x
+b=y
+z=x+y
 print(z)
